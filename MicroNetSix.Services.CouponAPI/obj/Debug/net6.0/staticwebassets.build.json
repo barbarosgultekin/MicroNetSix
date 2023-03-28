@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "g6lQrR1QY9BY4Wf6igZnyuveQT+5UhSgEH6e8jYuzYQ=",
+  "Source": "MicroNetSix.Services.CouponAPI",
+  "BasePath": "_content/MicroNetSix.Services.CouponAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

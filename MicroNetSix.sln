@@ -1,0 +1,69 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{02B8D9C7-BE80-4500-9022-68DE29522765}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MicroNetSix.Web", "MicroNetSix.Web\MicroNetSix.Web.csproj", "{BCA7157C-55CB-41B2-9722-0DF1DC414F01}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{00433299-4992-446C-A9F3-8C08C3578363}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MicroNetSix.Services.ProductAPI", "MicroNetSix.ProductAPI\MicroNetSix.Services.ProductAPI.csproj", "{1B8FE87B-DF81-45D8-B4E2-1B148296BAAD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MicroNetSix.Services.ShoppingCartAPI", "MicroNetSix.Services.ShoppingCartAPI\MicroNetSix.Services.ShoppingCartAPI.csproj", "{BCEAC9E7-F46D-486F-8482-D873BEC3A74B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MicroNetSix.Services.CouponAPI", "MicroNetSix.Services.CouponAPI\MicroNetSix.Services.CouponAPI.csproj", "{213A3A38-40BC-41A9-985E-9E0C02011781}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MicroNetSix.Services.IdentityAPI", "MicroNetSix.Services.IdentityAPI\MicroNetSix.Services.IdentityAPI.csproj", "{4731C65E-769F-4C66-8CA9-C29EDCD17173}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Gateway", "Gateway", "{0C6450A1-5DF1-4BEE-B42E-1A982377D01E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroNetSix.GatewaySolution", "MicroNetSix.GatewaySolution\MicroNetSix.GatewaySolution.csproj", "{502B2DE3-F2FC-499F-B067-B58F47B4E4A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCA7157C-55CB-41B2-9722-0DF1DC414F01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCA7157C-55CB-41B2-9722-0DF1DC414F01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCA7157C-55CB-41B2-9722-0DF1DC414F01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCA7157C-55CB-41B2-9722-0DF1DC414F01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B8FE87B-DF81-45D8-B4E2-1B148296BAAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B8FE87B-DF81-45D8-B4E2-1B148296BAAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B8FE87B-DF81-45D8-B4E2-1B148296BAAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B8FE87B-DF81-45D8-B4E2-1B148296BAAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCEAC9E7-F46D-486F-8482-D873BEC3A74B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCEAC9E7-F46D-486F-8482-D873BEC3A74B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCEAC9E7-F46D-486F-8482-D873BEC3A74B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCEAC9E7-F46D-486F-8482-D873BEC3A74B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{213A3A38-40BC-41A9-985E-9E0C02011781}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{213A3A38-40BC-41A9-985E-9E0C02011781}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{213A3A38-40BC-41A9-985E-9E0C02011781}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{213A3A38-40BC-41A9-985E-9E0C02011781}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4731C65E-769F-4C66-8CA9-C29EDCD17173}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4731C65E-769F-4C66-8CA9-C29EDCD17173}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4731C65E-769F-4C66-8CA9-C29EDCD17173}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4731C65E-769F-4C66-8CA9-C29EDCD17173}.Release|Any CPU.Build.0 = Release|Any CPU
+		{502B2DE3-F2FC-499F-B067-B58F47B4E4A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{502B2DE3-F2FC-499F-B067-B58F47B4E4A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{502B2DE3-F2FC-499F-B067-B58F47B4E4A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{502B2DE3-F2FC-499F-B067-B58F47B4E4A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BCA7157C-55CB-41B2-9722-0DF1DC414F01} = {02B8D9C7-BE80-4500-9022-68DE29522765}
+		{1B8FE87B-DF81-45D8-B4E2-1B148296BAAD} = {00433299-4992-446C-A9F3-8C08C3578363}
+		{BCEAC9E7-F46D-486F-8482-D873BEC3A74B} = {00433299-4992-446C-A9F3-8C08C3578363}
+		{213A3A38-40BC-41A9-985E-9E0C02011781} = {00433299-4992-446C-A9F3-8C08C3578363}
+		{4731C65E-769F-4C66-8CA9-C29EDCD17173} = {00433299-4992-446C-A9F3-8C08C3578363}
+		{502B2DE3-F2FC-499F-B067-B58F47B4E4A3} = {0C6450A1-5DF1-4BEE-B42E-1A982377D01E}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86AA4D88-1A85-4FC4-933E-294D2954C929}
+	EndGlobalSection
+EndGlobal

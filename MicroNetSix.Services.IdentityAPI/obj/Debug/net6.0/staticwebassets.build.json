@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "WYoCD2j8n/OzfAFG+b9JFL7vV4//m16ypEAvdLW3KJs=",
+  "Source": "MicroNetSix.Services.IdentityAPI",
+  "BasePath": "_content/MicroNetSix.Services.IdentityAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

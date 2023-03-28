@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "TCNRUuKEZP10C3GcIaWirSYkCYOVqfCCPxwQwqVWujo=",
+  "Source": "MicroNetSix.Services.ShoppingCartAPI",
+  "BasePath": "_content/MicroNetSix.Services.ShoppingCartAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
